@@ -5,6 +5,6 @@
 | Team Members | Role | Email |
 |----------|----------|----------|
 | Angel Antonio Cervantes | Electronics and programming | angelcervant@hotmail.com |
-| Diego Lopez Hernandez | Mechanics and Design | email |
-| Jose Joaquin Rodriguez Cisneros| Sensors calibration | email |
-| Alejandro Fermin Espinoza| Supervisor | email |
+| Diego Lopez Hernandez | Mechanical Design and manufacturing | A00835084@tec.mx |
+| Jose Joaquin Rodriguez Cisneros| Sensors calibration | A00833104@tec.mx |
+| Alejandro Fermin Espinoza| Supervisor | A00833932@tec.mx|
