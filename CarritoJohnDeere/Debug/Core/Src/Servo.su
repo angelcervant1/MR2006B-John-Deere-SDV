@@ -1,0 +1,8 @@
+../Core/Src/Servo.c:19:6:initServo	16	static
+../Core/Src/Servo.c:26:6:moveToDegrees	32	static
+../Core/Src/Servo.c:49:6:moveToDegreesT	48	static
+../Core/Src/Servo.c:74:7:getError	4	static
+../Core/Src/Servo.c:80:6:stopServo	4	static
+../Core/Src/Servo.c:86:6:moveMaxRight	4	static
+../Core/Src/Servo.c:92:6:moveMaxLeft	4	static
+../Core/Src/Servo.c:98:6:moveStraight	4	static

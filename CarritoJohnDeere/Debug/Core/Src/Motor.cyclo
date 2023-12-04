@@ -1,0 +1,10 @@
+../Core/Src/Motor.c:15:6:initMotor	1
+../Core/Src/Motor.c:38:6:forward	1
+../Core/Src/Motor.c:43:6:backward	1
+../Core/Src/Motor.c:48:6:motorStop	1
+../Core/Src/Motor.c:53:6:changePwm	3
+../Core/Src/Motor.c:69:5:getEncoderPulses	1
+../Core/Src/Motor.c:73:6:constantRPM	1
+../Core/Src/Motor.c:83:7:PwmToRpm	1
+../Core/Src/Motor.c:88:7:RpmToPwm	1
+../Core/Src/Motor.c:93:7:getRPM	2
