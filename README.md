@@ -1,8 +1,9 @@
 # Autonomous Car Development in collaboration with John Deere
+
 <table>
   <tr>
-    <td><img src="john_deere.jpg" alt="" width="400"></td>
-    <td><img src="tdm.png" alt="" width="400"></td>
+    <td><img src="/assets/john_deere.jpg" alt="" width="400"></td>
+    <td><img src="/assets/tdm.png" alt="" width="400"></td>
   </tr>
 </table>
 
