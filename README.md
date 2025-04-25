@@ -1,9 +1,5 @@
 # Autonomous Car Development in collaboration with John Deere
 
-## This project was developed along the semester of August - December of 2023 for the class of Industrial Automation.
-
-
-##MR2006B – Autonomous Vehicle Development with STM32 (John Deere SDV Project)
 Project Timeline: August – December 2023
 Course: Industrial Automation
 Institution: Tecnológico de Monterrey
@@ -21,9 +17,9 @@ The robot was designed to navigate autonomously toward predefined waypoints whil
 
 - Developed a telemetry system over UART communication, interfacing with a Bluetooth module for real-time status monitoring and debugging.
 
-- Employed modular C/C++ design patterns to enhance maintainability and scalability of the embedded firmware.
+- Employed modular C design patterns to enhance maintainability and scalability of the embedded firmware.
 
-- Integrated wheel odometry and inertial sensor data to improve localization and stability during motion.
+- Integrated wheel odometry and inertial sensor data to improve localization and stability of vehicle's motion.
 
 | Team Members | Role | Email |
 |----------|----------|----------|
