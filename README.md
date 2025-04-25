@@ -36,3 +36,13 @@ The robot was designed to navigate autonomously toward predefined waypoints whil
 | Diego Lopez Hernandez | Mechanical Design and manufacturing | A00835084@tec.mx |
 | Jose Joaquin Rodriguez Cisneros| Sensors calibration | A00833104@tec.mx |
 | Alejandro Fermin Espinoza| Supervisor | A00833932@tec.mx|
+
+
+
+# Proof of Work
+<table>
+  <tr>
+    <td><img src="/assets/sdv5.mp4" alt="Demo Video" width="400"></td>
+    <td><img src="/assets/sdv1.jpg" alt="Final Product" width="400"></td>
+  </tr>
+</table>
