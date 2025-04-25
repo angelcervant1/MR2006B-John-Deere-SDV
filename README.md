@@ -42,7 +42,7 @@ The robot was designed to navigate autonomously toward predefined waypoints whil
 # Proof of Work
 <table>
   <tr>
-    <td><img src="/assets/sdv5.mp4" alt="Demo Video" width="400"></td>
+    <td><img src="https://www.youtube.com/shorts/eYyqGrFNKqQ" alt="Demo Video" width="400"></td>
     <td><img src="/assets/sdv1.jpg" alt="Final Product" width="400"></td>
   </tr>
 </table>
