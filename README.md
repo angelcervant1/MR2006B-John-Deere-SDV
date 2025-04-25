@@ -1,8 +1,10 @@
 # Autonomous Car Development in collaboration with John Deere
 
-Project Timeline: August – December 2023
-Course: Industrial Automation
-Institution: Tecnológico de Monterrey
+## Project Timeline: August – December 2023
+
+## Course: Industrial Automation
+
+## Institution: Tecnológico de Monterrey
 
 Project Overview:
 This project involved the design and development of a fully autonomous robot from scratch, combining mechanical, electronic, and software systems. The vehicle was programmed using C/C++ on an STM32 microcontroller, focusing on embedded systems, real-time control, and wireless telemetry.
