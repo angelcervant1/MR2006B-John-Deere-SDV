@@ -5,6 +5,7 @@
     <td><img src="tdm.png" alt="" width="400"></td>
   </tr>
 </table>
+
 - Project Timeline: August – December 2023
 
 - Course: Industrial Automation
