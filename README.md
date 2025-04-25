@@ -1,5 +1,5 @@
 # Autonomous Car Development in collaboration with John Deere
-
+![](john_deere.jpg "Optional title")
 - Project Timeline: August – December 2023
 
 - Course: Industrial Automation
