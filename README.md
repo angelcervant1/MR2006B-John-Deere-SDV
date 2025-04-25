@@ -1,4 +1,4 @@
-# MR2006B-John-Deere-SDV
+# Autonomous Car Development in collaboration with John Deere
 
 ## This project was developed along the semester of August - December of 2023 for the class of Industrial Automation.
 
