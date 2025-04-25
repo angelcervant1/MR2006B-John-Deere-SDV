@@ -6,12 +6,12 @@
 
 - Institution: Tecnológico de Monterrey
 
-Project Overview:
+## Project Overview:
 This project involved the design and development of a fully autonomous robot from scratch, combining mechanical, electronic, and software systems. The vehicle was programmed using C/C++ on an STM32 microcontroller, focusing on embedded systems, real-time control, and wireless telemetry.
 
 The robot was designed to navigate autonomously toward predefined waypoints while maintaining stability and adaptability in dynamic environments. The system architecture integrated sensor data through sensor fusion algorithms using data from an accelerometer and wheel encoders to ensure precise motion control.
 
-# Key Technical Contributions:
+## Key Technical Contributions:
 
 - Utilized STM32 microcontroller for real-time task execution, system reliability, and interrupt-driven control loops.
 
